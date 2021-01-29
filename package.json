@@ -1,0 +1,15 @@
+{
+  "name": "project-creator",
+  "version": "1.0.0",
+  "description": "Creates a html, css and javascript file for your project.",
+  "main": "./lib/createFiles.js",
+  "scripts": {
+    "createFiles": "node ./bin/main.js"
+  },
+  "bin": {
+    "createFiles": "./bin/main.js"
+  },
+  "preferGlobal": true,
+  "author": "R0L3eX",
+  "license": "MIT"
+}

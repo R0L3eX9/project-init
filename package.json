@@ -1,5 +1,5 @@
 {
-  "name": "project-creator",
+  "name": "project-init",
   "version": "1.0.0",
   "description": "Creates a html, css and javascript file for your project.",
   "main": "./lib/createFiles.js",
@@ -9,6 +9,11 @@
   "bin": {
     "createFiles": "./bin/main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R0L3eX/project-init.git"
+  },
+  "homepage": "https://github.com/R0L3eX/project-init#readme",
   "preferGlobal": true,
   "author": "R0L3eX",
   "license": "MIT"

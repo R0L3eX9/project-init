@@ -2,6 +2,6 @@
 It's a simple command that creates an HTML, CSS and JavaScript file in your current directory.
 
 # Installation
-`npm i -g create-project`
+Run `npm i -g project-init` in your terminal.
 
-Then simply type `createFiles` in your terminal.
+Then simply type `createFiles` in the terminal.

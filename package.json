@@ -1,6 +1,6 @@
 {
   "name": "webdev-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Creates a html, css and javascript file for your project.",
   "main": "./lib/createFiles.js",
   "scripts": {
@@ -15,6 +15,12 @@
   },
   "homepage": "https://github.com/R0L3eX9/webdev-generator",
   "preferGlobal": true,
+  "keywords": [
+    "generator",
+    "files",
+    "template",
+    "dev"
+  ],
   "author": "R0L3eX",
   "license": "MIT"
 }

@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R0L3eX/webdev-generator.git"
+    "url": "https://github.com/R0L3eX9/webdev-generator"
   },
-  "homepage": "https://github.com/R0L3eX/webdev-generator#readme",
+  "homepage": "https://github.com/R0L3eX9/webdev-generator",
   "preferGlobal": true,
   "author": "R0L3eX",
   "license": "MIT"

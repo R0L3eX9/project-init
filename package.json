@@ -1,6 +1,6 @@
 {
   "name": "webdev-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates a html, css and javascript file for your project.",
   "main": "./lib/createFiles.js",
   "scripts": {
